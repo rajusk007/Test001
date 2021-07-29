@@ -1,2 +1,6 @@
 Hello World
+<<<<<<< HEAD
+=======
+new
+>>>>>>> 9aa3e59 (new commit)
 added new 
